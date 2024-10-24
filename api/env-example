@@ -1,0 +1,4 @@
+LIVEKIT_API_KEY = "APIbyTmTBfcdp8X"
+LIVEKIT_SECRET_KEY = "Jo8BPMhVpFsnBk3Fedam7VOQCPLHHHydSUU8DU879fJ"
+LIVEKIT_SERVER = "wss://snaphunt-assignment-l91q0nwx.livekit.cloud"
+PORT = 3001
